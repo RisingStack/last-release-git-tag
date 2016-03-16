@@ -19,13 +19,13 @@
   "homepage": "https://github.com/RisingStack/last-release-git-tag#readme",
   "dependencies": {
     "@semantic-release/error": "1.0.0",
-    "github": "0.2.4",
-    "sinon": "1.17.3"
+    "github": "0.2.4"
   },
   "devDependencies": {
     "chai": "3.5.0",
     "mocha": "2.4.5",
     "nock": "7.2.2",
+    "sinon": "1.17.3",
     "eslint": "2.4.0",
     "eslint-config-standard": "5.1.0",
     "eslint-plugin-promise": "1.1.0",
