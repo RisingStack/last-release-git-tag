@@ -1,6 +1,6 @@
 {
   "name": "last-release-git-tag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "last-release-git-tag plugin for semantic-release",
   "main": "index.js",
   "scripts": {
